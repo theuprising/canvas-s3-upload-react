@@ -1,0 +1,21 @@
+{
+  "name": "canvas-image-upload",
+  "private": "true",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {},
+  "dependencies": {
+    "axios": "^0.15.3",
+    "debug": "^2.6.0",
+    "next": "^1.2.3",
+    "ramda": "^0.23.0",
+    "react-canvas": "^1.2.1",
+    "react-input-element": "^1.0.2",
+    "react-mountable": "^1.0.0",
+    "react-with-state": "^1.0.0"
+  }
+}
